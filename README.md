@@ -2,4 +2,4 @@
 Machine Learning
 
 
-Y is the 2nd column
+Y is the 4nd column
